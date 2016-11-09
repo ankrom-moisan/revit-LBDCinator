@@ -1,0 +1,12 @@
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\bin\Debug\LBDCinator.addin
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\bin\Debug\LBDCinator.dll
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\bin\Debug\LBDCinator.pdb
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\LBDCinator.csprojResolveAssemblyReference.cache
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\WPF\MainWindow.baml
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\WPF\MainWindow.g.cs
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\LBDCinator_MarkupCompile.cache
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\LBDCinator.g.resources
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\LBDCinator.Properties.Resources.resources
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\LBDCinator.csproj.GenerateResource.Cache
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\LBDCinator.dll
+c:\users\logans\documents\visual studio 2015\Projects\LBDCinator\LBDCinator\obj\Debug\LBDCinator.pdb

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command LBDCinator</Text>
+    <Description>Plugin takes every instance (not in a group) of a chosen detail line, and replaces them with instances of a chosen line based detail component.</Description>
+    <Assembly>LBDCinator.dll</Assembly>
+    <FullClassName>LBDCinator.Command</FullClassName>
+    <ClientId>6813fb36-232f-4907-b4ad-43812aa5f51c</ClientId>
+    <VendorId>AMAA</VendorId>
+    <VendorDescription>Logan Smith</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application LBDCinator</Name>
+    <Assembly>LBDCinator.dll</Assembly>
+    <FullClassName>LBDCinator.App</FullClassName>
+    <ClientId>b57174a1-4bc4-481f-94de-741a8709eb24</ClientId>
+    <VendorId>AMAA</VendorId>
+    <VendorDescription>Logan Smith</VendorDescription>
+  </AddIn>
+</RevitAddIns>
